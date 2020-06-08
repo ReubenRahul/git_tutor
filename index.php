@@ -9,6 +9,9 @@ function utils()
 		 case 'POUND':
 		  # pound code here	
 		   break;
+		  case 'METER':
+		  # meter code will go here
+		  break;
 		default:
 			# code...
 			break;
