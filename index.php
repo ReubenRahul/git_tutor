@@ -6,6 +6,9 @@ function utils()
 		case 'COUNT':
 			# count cod here
 			break;
+		case 'KG':
+		 #return KG unit
+		 break;	
 		 case 'POUND':
 		  # pound code here	
 		   break;
