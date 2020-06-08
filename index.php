@@ -1,4 +1,4 @@
 <?php
 echo 'from master';
 echo 'from hotfix2';
-echo 'from hotfix1';
+echo 'update again from hotfix1';
