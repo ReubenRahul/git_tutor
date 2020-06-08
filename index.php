@@ -12,7 +12,12 @@ function utils()
 		 case 'POUND':
 		  # pound code here	
 		   break;
+<<<<<<< HEAD
 		  case 'INCH':
+=======
+		  case 'METER':
+		  # meter code will go here
+>>>>>>> a7417d5... add meter case
 		  break;
 		default:
 			# code...
