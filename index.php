@@ -1,3 +1,16 @@
 <?php
-echo 'from master';
-echo 'update from hotfix';
+
+function utils()
+{
+	switch ($type) {
+		case 'COUNT':
+			# count cod here
+			break;
+		 case 'POUND':
+		  # pound code here	
+		   break;
+		default:
+			# code...
+			break;
+	}
+}
