@@ -12,10 +12,6 @@ function utils()
 		 case 'POUND':
 		  # pound code here	
 		   break;
-		  case 'INCH':
-		  break;
-		default:
-			# code...
-			break;
+
 	}
 }
