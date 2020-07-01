@@ -20,6 +20,8 @@ function utils()
 		  break;
 		  case 'NEwINCH':
 		  #inch returns
+		  case 'htofix1':
+		  #fix/hotfix1
 		  break;
 		default:
 			# code...
