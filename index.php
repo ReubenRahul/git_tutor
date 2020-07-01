@@ -6,11 +6,13 @@ function utils()
 		case 'COUNT':
 			# count cod here
 			break;
+		case 'KG':
+		 #return KG unit
+		 break;	
 		 case 'POUND':
 		  # pound code here	
 		   break;
-		  case 'METER':
-		  # meter code will go here
+		  case 'INCH':
 		  break;
 		default:
 			# code...
