@@ -13,7 +13,6 @@ function utils()
 		  # pound code here	
 		   break;
 		  case 'INCH':
-		  #inch returns
 		  break;
 		default:
 			# code...
