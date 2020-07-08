@@ -21,6 +21,9 @@ function utils()
 		  case 'NEwINCH':
 		  #inch returns
 		  break;
+		case 'HOTFIX1':
+
+				return hotfix;
 		default:
 			# code...
 			break;
