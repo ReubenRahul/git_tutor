@@ -1,22 +1,1 @@
-<?php
-
-function utils()
-{
-	switch ($type) {
-		case 'COUNT':
-			# count cod here
-			break;
-		case 'KG':
-		 #return KG unit
-		 break;	
-		 case 'POUND':
-		  # pound code here	
-		   break;
-		  case 'INCH':
-		  #inch returns
-		  break;
-		default:
-			# code...
-			break;
-	}
-}
+<?phpfunction utils(){	switch ($type) {		case 'COUNT':			# count cod here			break;		case 'KG':		 #return KG unit		 break;			 case 'POUND':		  # pound code here			   break;		  case 'INCH':		  #inch returns		  break;		  case 'htofix1':		  #fix/hotfix1		  break;		case 'NEWST':			return null;			default:			# code...			break;	}}
