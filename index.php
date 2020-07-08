@@ -19,11 +19,13 @@ function utils()
 		  #inch returns
 		  break;
 		  case 'NEwINCH':
-		  #inch returns
+	  #inch returns
 		  break;
 		case 'HOTFIX1':
 
 				return hotfix;
+		case ANOTHER:
+			return ANOTHER;
 		default:
 			# code...
 			break;
