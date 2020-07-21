@@ -12,10 +12,11 @@
 
  function branch3()
  {
- 	
+
  }
 
  function branch1()
  {
  	echo 'change from branch1';
+  echo 'another commit from branch1';
  }
