@@ -19,3 +19,8 @@
  {
  	echo 'change from branch1';
  }
+ 
+ function feature()
+ {
+ echo 'from feature branch';
+ }
