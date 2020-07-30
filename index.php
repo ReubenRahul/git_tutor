@@ -1,8 +1,8 @@
 <?php
  function master()
  {
-
- }
+echo 'change';
+}
 
 
  function branch2()
