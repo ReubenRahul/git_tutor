@@ -1,18 +1,19 @@
 <?php
  function master()
  {
-echo 'change';
-}
+echo 'great here';
+ }
 
 
  function branch2()
  {
  	echo 'message from branch2';
+  echo 'message  from branch2 another';
  }
 
  function branch3()
  {
- 	
+
  }
 
  function branch1()
