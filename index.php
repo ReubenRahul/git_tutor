@@ -1,7 +1,7 @@
 <?php
  function master()
  {
-
+echo 'great here';
  }
 
 
